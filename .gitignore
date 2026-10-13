@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# catkin build output
+build/
+devel/
+
+# local secrets (put your OctoPrint API key here, not in tracked files)
+.env
+*.local.yaml
