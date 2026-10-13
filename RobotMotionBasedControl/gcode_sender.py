@@ -600,7 +600,7 @@ class GCodeSender:
 def interactive_mode():
     """交互模式"""
     OCTOPRINT_URL = "http://octopi.local"
-    API_KEY = "kZhM3w7vBAME6vEzF2iEIh1BLTa-8TnJSXSBa50uy1k"
+    API_KEY = "YOUR_OCTOPRINT_API_KEY"
     
     sender = GCodeSender(OCTOPRINT_URL, API_KEY)
     

@@ -254,7 +254,7 @@ def main():
     
     # 配置参数
     OCTOPRINT_URL = "http://octopi.local"
-    API_KEY = "kZhM3w7vBAME6vEzF2iEIh1BLTa-8TnJSXSBa50uy1k"
+    API_KEY = "YOUR_OCTOPRINT_API_KEY"
     
     # 速度源选项: 'odom' (里程计) 或 'cmd_vel' (速度命令)
     SPEED_SOURCE = 'odom'

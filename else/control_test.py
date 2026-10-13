@@ -2,7 +2,7 @@ import requests
 import time
 
 Octopi_URL = "http://octopi.local/api/printer/command"
-Global_API_key = "kZhM3w7vBAME6vEzF2iEIh1BLTa-8TnJSXSBa50uy1k"
+Global_API_key = "YOUR_OCTOPRINT_API_KEY"
 
 headers = {"Content-Type": "application/json",
            "X-API-Key": Global_API_key}
